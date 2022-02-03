@@ -1,6 +1,8 @@
 # Joule Calculator
 A very simple script to calculate the joule output of your airsoft gun.
 
-### Requirements
+### Requirements:
 - You must know the velocity of your gun in feet per second.
 - You must know what ammo weight you are using, in grams.
+
+That's it!
