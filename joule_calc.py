@@ -9,7 +9,7 @@ mass = float(input("\nPlease enter ammo weight: (in grams) ")) #Getting the weig
 if metric:
     speed = float(input("\nPlease enter velocity of weapon: (in meters per second) ")) #Getting the speed ot the weapon. Can only be entered in metere per second.
 else:
-    speed = float(input("\nPlease enter FPS of weapon: (in feet per second) ")) #Getting the speed of the ammo when fired. Can only be entered in Feed Per Second.
+    speed = float(input("\nPlease enter FPS of weapon: (in feet per second) ")) #Getting the speed of the ammo when fired. Can only be entered in Feet Per Second.
 
 #The basic formula for caculating joules: Joules = 0.5 x mass x velocity^2.
 #Mass must be in kilograms, and velocity must be in meters per second.
